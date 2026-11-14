@@ -1,0 +1,2 @@
+measurement_id,batch_id,machine_id,parameter_name,parameter_value,unit,recorded_at
+PM-00004,BAT-0002,MCH-03,TEMPERATURE,191.92,C,2026-09-01T09:00:00+05:30

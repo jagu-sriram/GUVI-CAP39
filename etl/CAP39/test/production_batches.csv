@@ -1,0 +1,4 @@
+batch_id,product_id,production_line,shift,planned_quantity,produced_quantity,production_date,status
+BAT-0041,GEAR-D,LINE-01,DAY,500,490,2026-11-13,COMPLETED
+BAT-0042,VALVE-A,LINE-02,EVENING,600,585,2026-11-13,COMPLETED
+BAT-0043,PUMP-B,LINE-03,NIGHT,700,680,2026-11-13,COMPLETED

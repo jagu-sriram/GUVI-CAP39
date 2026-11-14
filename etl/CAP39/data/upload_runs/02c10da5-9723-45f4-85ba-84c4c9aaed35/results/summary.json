@@ -1,0 +1,11 @@
+{
+    "upload_id": "02c10da5-9723-45f4-85ba-84c4c9aaed35",
+    "dataset": "rework_records",
+    "input_records": 15,
+    "baseline_records": 3,
+    "accepted_records": 0,
+    "rejected_records": 11,
+    "duplicate_records": 4,
+    "results_directory": "/Users/jagusriram/Downloads/CAP39/data/upload_runs/02c10da5-9723-45f4-85ba-84c4c9aaed35/results",
+    "status": "COMPLETED"
+}

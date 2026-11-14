@@ -1,0 +1,11 @@
+{
+    "upload_id": "b954464b-e982-44bf-857b-de465042560d",
+    "dataset": "production_lines",
+    "input_records": 3,
+    "baseline_records": 3,
+    "accepted_records": 0,
+    "rejected_records": 0,
+    "duplicate_records": 3,
+    "results_directory": "/Users/jagusriram/Downloads/CAP39/data/upload_runs/b954464b-e982-44bf-857b-de465042560d/results",
+    "status": "COMPLETED"
+}

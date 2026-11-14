@@ -1,0 +1,2 @@
+defect_id,batch_id,inspection_id,defect_category,defect_code,affected_quantity,inspected_quantity,detected_at,severity,rejection_reason
+DF-00005,BAT-0004,INSP-0004,POROSITY,D02,3,150,,MEDIUM,UNKNOWN_BATCH_ID

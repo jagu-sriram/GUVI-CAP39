@@ -1,0 +1,11 @@
+{
+    "upload_id": "319ea288-ca11-4a8e-88f2-35f13dc243cf",
+    "dataset": "production_batches",
+    "input_records": 3,
+    "baseline_records": 35,
+    "accepted_records": 3,
+    "rejected_records": 0,
+    "duplicate_records": 0,
+    "results_directory": "/Users/jagusriram/Downloads/CAP39/data/upload_runs/319ea288-ca11-4a8e-88f2-35f13dc243cf/results",
+    "status": "COMPLETED"
+}

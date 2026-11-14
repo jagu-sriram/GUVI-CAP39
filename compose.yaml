@@ -1,0 +1,49 @@
+
+name: cap39-deployment
+
+services:
+  backend:
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: cap39-backend
+    restart: unless-stopped
+
+    env_file:
+      - ./.env
+
+    environment:
+      AWS_REGION: ap-south-1
+      CAP39_S3_BUCKET: sriram-cap39-storage
+
+      CAP39_PYTHON_EXECUTABLE: /opt/venv/bin/python
+      CAP39_PYTHON_PROJECT_DIR: /opt/cap39-etl
+      CAP39_PYTHON_SCRIPT: /opt/cap39-etl/process_single_upload.py
+      CAP39_ETL_RESULTS_DIR: /opt/cap39-etl/data/upload_runs
+      CAP39_PROCESS_TIMEOUT_SECONDS: 600
+
+    ports:
+      - "8080:8080"
+
+    volumes:
+      - cap39_uploads:/app/incoming
+      - cap39_etl_runs:/opt/cap39-etl/data/upload_runs
+
+  frontend:
+    platform: linux/amd64
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: cap39-frontend
+    restart: unless-stopped
+
+    ports:
+      - "80:80"
+
+    depends_on:
+      - backend
+
+volumes:
+  cap39_uploads:
+  cap39_etl_runs:

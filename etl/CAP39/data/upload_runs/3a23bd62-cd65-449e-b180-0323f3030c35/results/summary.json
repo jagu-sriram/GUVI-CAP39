@@ -1,0 +1,11 @@
+{
+    "upload_id": "3a23bd62-cd65-449e-b180-0323f3030c35",
+    "dataset": "production_batches",
+    "input_records": 3,
+    "baseline_records": 35,
+    "accepted_records": 3,
+    "rejected_records": 0,
+    "duplicate_records": 0,
+    "results_directory": "/Users/jagusriram/Downloads/CAP39/data/upload_runs/3a23bd62-cd65-449e-b180-0323f3030c35/results",
+    "status": "COMPLETED"
+}

@@ -1,0 +1,17 @@
+operator_id,operator_label,team_id,operator_status
+OP-001,Operator 1,TEAM-1,ACTIVE
+OP-002,Operator 2,TEAM-2,ACTIVE
+OP-003,Operator 3,TEAM-3,ACTIVE
+OP-004,Operator 4,TEAM-1,ACTIVE
+OP-005,Operator 5,TEAM-2,ACTIVE
+OP-006,Operator 6,TEAM-3,ACTIVE
+OP-007,Operator 7,TEAM-1,ACTIVE
+OP-008,Operator 8,TEAM-2,ACTIVE
+OP-001,Operator 1,TEAM-1,ACTIVE
+OP-002,Operator 2,TEAM-2,ACTIVE
+OP-003,Operator 3,TEAM-3,ACTIVE
+OP-004,Operator 4,TEAM-1,ACTIVE
+OP-005,Operator 5,TEAM-2,ACTIVE
+OP-006,Operator 6,TEAM-3,ACTIVE
+OP-007,Operator 7,TEAM-1,ACTIVE
+OP-008,Operator 8,TEAM-2,ACTIVE

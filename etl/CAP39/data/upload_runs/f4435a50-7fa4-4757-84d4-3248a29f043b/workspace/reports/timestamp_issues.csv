@@ -1,0 +1,2 @@
+dataset,column,original_value,issue
+batch_relationships,event_timestamp,not-a-timestamp,INVALID_TIMESTAMP

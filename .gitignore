@@ -1,0 +1,90 @@
+
+# ==========================================
+# ENVIRONMENT VARIABLES AND SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# AWS credentials
+.aws/
+credentials
+config
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+
+# ==========================================
+# PYTHON / ETL
+# ==========================================
+.venv/
+venv/
+env/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python environment files
+.python-version
+
+# ==========================================
+# ETL GENERATED / RUNTIME DATA
+# ==========================================
+etl/data/upload_runs/
+etl/data/standardized/
+etl/data/processed/
+etl/data/rejected/
+etl/data/duplicates/
+etl/logs/
+etl/test_uploads/
+
+# ==========================================
+# JAVA / MAVEN BACKEND
+# ==========================================
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+
+# ==========================================
+# REACT / NODE
+# ==========================================
+**/node_modules/
+**/dist/
+**/.vite/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==========================================
+# DOCKER / DEPLOYMENT ARTIFACTS
+# ==========================================
+*.tar
+*.tar.gz
+*.zip
+*.log
+
+# ==========================================
+# IDE / OPERATING SYSTEM
+# ==========================================
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+Thumbs.db
+
+# ==========================================
+# TEMPORARY FILES
+# ==========================================
+*.tmp
+*.bak
+*.old

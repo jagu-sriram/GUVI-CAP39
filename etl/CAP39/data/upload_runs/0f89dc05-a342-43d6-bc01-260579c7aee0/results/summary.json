@@ -1,0 +1,11 @@
+{
+    "upload_id": "0f89dc05-a342-43d6-bc01-260579c7aee0",
+    "dataset": "defects",
+    "input_records": 37,
+    "baseline_records": 31,
+    "accepted_records": 0,
+    "rejected_records": 6,
+    "duplicate_records": 32,
+    "results_directory": "/Users/jagusriram/Downloads/CAP39/data/upload_runs/0f89dc05-a342-43d6-bc01-260579c7aee0/results",
+    "status": "COMPLETED"
+}

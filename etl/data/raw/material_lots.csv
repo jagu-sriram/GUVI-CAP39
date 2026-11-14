@@ -1,0 +1,13 @@
+material_lot_id,material_type,supplier_id,supplier_name,received_date,certificate_status,quantity_received,unit
+ML-001,Aluminium Alloy,SUP-01,Apex Metals,2026-08-03,APPROVED,1000,KG
+ML-002,Polymer Resin,SUP-99,Nova Polymers,2026-08-05,PENDING,500,PCS
+ML-003,Copper Insert,,Prime Components,2026-08-07,APPROVED,800,KG
+ML-004,Aluminium Alloy,SUP-04,Eaststar Materials,2026-08-09,PENDING,1500,KG
+ML-005,Polymer Resin,SUP-01,Apex Metals,31/13/2026,APPROVED,1000,PCS
+ML-006,Copper Insert,SUP-02,Nova Polymers,2026-08-13,APPROVED,800,KG
+ML-007,Aluminium Alloy,SUP-03,Prime Components,2026-08-15,APPROVED,-250,KG
+ML-008,Polymer Resin,SUP-04,Eaststar Materials,2026-08-17,APPROVED,1000,PCS
+ML-009,Copper Insert,SUP-01,Apex Metals,2026-08-19,UNKNOWN,500,KG
+ML-010,Aluminium Alloy,SUP-02,Nova Polymers,2026-08-21,PENDING,1000,KG
+ML-009,Polymer Resin,SUP-03,Prime Components,2026-08-23,PENDING,500,PCS
+ML-012,,SUP-04,Eaststar Materials,2026-08-25,PENDING,1500,KG

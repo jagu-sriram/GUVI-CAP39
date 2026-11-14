@@ -1,0 +1,7 @@
+production_line,line_name,plant_id,line_status
+LINE-01,Casting Line 1,PLANT-A,ACTIVE
+LINE-02,Machining Line 2,PLANT-A,ACTIVE
+LINE-03,Assembly Line 3,PLANT-B,ACTIVE
+LINE-01,Casting Line 1,PLANT-A,ACTIVE
+LINE-02,Machining Line 2,PLANT-A,ACTIVE
+LINE-03,Assembly Line 3,PLANT-B,ACTIVE

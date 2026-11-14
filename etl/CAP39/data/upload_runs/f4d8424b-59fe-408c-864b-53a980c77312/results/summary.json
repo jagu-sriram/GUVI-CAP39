@@ -1,0 +1,11 @@
+{
+    "upload_id": "f4d8424b-59fe-408c-864b-53a980c77312",
+    "dataset": "shift_schedule",
+    "input_records": 3,
+    "baseline_records": 3,
+    "accepted_records": 0,
+    "rejected_records": 0,
+    "duplicate_records": 3,
+    "results_directory": "/Users/jagusriram/Downloads/CAP39/data/upload_runs/f4d8424b-59fe-408c-864b-53a980c77312/results",
+    "status": "COMPLETED"
+}

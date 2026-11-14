@@ -1,0 +1,13 @@
+machine_id,machine_name,machine_type,machine_status
+MCH-01,Machine 1,CASTER,ACTIVE
+MCH-02,Machine 2,CNC,ACTIVE
+MCH-03,Machine 3,PRESS,ACTIVE
+MCH-04,Machine 4,CASTER,ACTIVE
+MCH-05,Machine 5,CNC,ACTIVE
+MCH-06,Machine 6,PRESS,ACTIVE
+MCH-01,Machine 1,CASTER,ACTIVE
+MCH-02,Machine 2,CNC,ACTIVE
+MCH-03,Machine 3,PRESS,ACTIVE
+MCH-04,Machine 4,CASTER,ACTIVE
+MCH-05,Machine 5,CNC,ACTIVE
+MCH-06,Machine 6,PRESS,ACTIVE

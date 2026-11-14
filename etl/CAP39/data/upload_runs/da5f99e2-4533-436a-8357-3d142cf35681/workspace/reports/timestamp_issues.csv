@@ -1,0 +1,2 @@
+dataset,column,original_value,issue
+production_events,event_timestamp,not-a-date,INVALID_TIMESTAMP

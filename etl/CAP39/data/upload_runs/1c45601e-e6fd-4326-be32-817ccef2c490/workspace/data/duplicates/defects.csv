@@ -1,0 +1,1 @@
+defect_id,batch_id,inspection_id,defect_category,defect_code,affected_quantity,inspected_quantity,detected_at,severity
