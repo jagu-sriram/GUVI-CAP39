@@ -1,2 +1,0 @@
-defect_id,batch_id,inspection_id,defect_category,defect_code,affected_quantity,inspected_quantity,detected_at,severity
-DF-00003,BAT-0002,INSP-0002,UNKNOWN DEFECT,D04,5,100,2026-09-01T21:00:00+05:30,LOW

@@ -1,5 +1,0 @@
-material_lot_id,material_type,supplier_id,supplier_name,received_date,certificate_status,quantity_received,unit,rejection_reason
-ML-002,Polymer Resin,SUP-99,Nova Polymers,2026-08-05T00:00:00+05:30,PENDING,500,PCS,UNKNOWN_SUPPLIER_ID
-ML-003,Copper Insert,,Prime Components,2026-08-07T00:00:00+05:30,APPROVED,800,KG,MISSING_SUPPLIER_ID
-ML-007,Aluminium Alloy,SUP-03,Prime Components,2026-08-15T00:00:00+05:30,APPROVED,-250,KG,NEGATIVE_QUANTITY_RECEIVED
-ML-009,Polymer Resin,SUP-03,Prime Components,2026-08-23T00:00:00+05:30,PENDING,500,PCS,DUPLICATE_PRIMARY_KEY_MATERIAL_LOT_ID

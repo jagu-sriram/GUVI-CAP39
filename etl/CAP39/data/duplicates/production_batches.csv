@@ -1,2 +1,0 @@
-batch_id,product_id,production_line,shift,planned_quantity,produced_quantity,production_date,status
-BAT-0006,PUMP-B,LINE-03,NIGHT,800,790,2026-09-02T00:00:00+05:30,REWORK

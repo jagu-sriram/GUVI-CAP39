@@ -1,2 +1,0 @@
-event_id,batch_id,event_type,event_timestamp,material_lot_id,quantity,operator_id,machine_id
-EV-00011,BAT-0003,BATCH_STARTED,2026-09-01T06:03:00+05:30,,,OP-004,MCH-04

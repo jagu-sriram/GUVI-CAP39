@@ -1,7 +1,0 @@
-dataset,column,original_value,issue
-batch_relationships,event_timestamp,not-a-timestamp,INVALID_TIMESTAMP
-defects,detected_at,32-09-2026,INVALID_TIMESTAMP
-material_lots,received_date,31/13/2026,INVALID_TIMESTAMP
-process_parameters,recorded_at,2026/99/99,INVALID_TIMESTAMP
-production_batches,production_date,2026/31/09,INVALID_TIMESTAMP
-production_events,event_timestamp,not-a-date,INVALID_TIMESTAMP
