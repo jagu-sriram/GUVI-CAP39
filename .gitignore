@@ -46,6 +46,7 @@ etl/data/rejected/
 etl/data/duplicates/
 etl/logs/
 etl/test_uploads/
+etl/CAP39
 
 # ==========================================
 # JAVA / MAVEN BACKEND
